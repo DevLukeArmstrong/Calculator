@@ -1,0 +1,14 @@
+/Users/lukearmstrong/Developing/C#/Calculator/bin/Debug/net8.0/Calculator
+/Users/lukearmstrong/Developing/C#/Calculator/bin/Debug/net8.0/Calculator.deps.json
+/Users/lukearmstrong/Developing/C#/Calculator/bin/Debug/net8.0/Calculator.runtimeconfig.json
+/Users/lukearmstrong/Developing/C#/Calculator/bin/Debug/net8.0/Calculator.dll
+/Users/lukearmstrong/Developing/C#/Calculator/bin/Debug/net8.0/Calculator.pdb
+/Users/lukearmstrong/Developing/C#/Calculator/obj/Debug/net8.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukearmstrong/Developing/C#/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfoInputs.cache
+/Users/lukearmstrong/Developing/C#/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfo.cs
+/Users/lukearmstrong/Developing/C#/Calculator/obj/Debug/net8.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/lukearmstrong/Developing/C#/Calculator/obj/Debug/net8.0/Calculator.dll
+/Users/lukearmstrong/Developing/C#/Calculator/obj/Debug/net8.0/refint/Calculator.dll
+/Users/lukearmstrong/Developing/C#/Calculator/obj/Debug/net8.0/Calculator.pdb
+/Users/lukearmstrong/Developing/C#/Calculator/obj/Debug/net8.0/Calculator.genruntimeconfig.cache
+/Users/lukearmstrong/Developing/C#/Calculator/obj/Debug/net8.0/ref/Calculator.dll
