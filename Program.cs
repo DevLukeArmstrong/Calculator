@@ -1,5 +1,5 @@
 ﻿// This project is going to be a simple console calculator
-// See https://aka.ms/new-console-template for more information
+// See https://aka.ms/new-console-template for more information 
 
 // Take in console arguments as int string int
 //Create method that does the calculation and returns
